@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Iversens Wordpress Guide
+title: Iverseninc
 email: bms@frod.dk
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
@@ -29,8 +29,20 @@ url: "https://floppydisken.github.io" # the base hostname & protocol for your si
 github_username: floppydisken 
 
 # Build settings
-theme: minima
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+theme: just-the-docs
+color_scheme: dark
+
+
+collections:
+  guide:
+    permalink: "/:path"
+    output: true
+
+
+just_the_docs:
+  collections:
+    guide:
+      name: Guide
 
 # Exclude from processing.
 # The following items will not be processed, by default.

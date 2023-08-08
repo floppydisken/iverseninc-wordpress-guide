@@ -1,11 +1,8 @@
 ---
-title: "Introduktion til Wordpress"
+title: Ordliste
 layout: post
+nav_order: 2
 ---
-Hej Ann-Merete!
-
-Her kommer din guide til brug af Wordpress.
-
 # Ordliste
 
 Heri vil du finde alle termerne som bliver brugt, sådan at der ingen ambiguitet er med ordene brugt.
