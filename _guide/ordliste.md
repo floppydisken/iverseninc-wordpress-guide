@@ -10,3 +10,5 @@ Heri vil du finde alle termerne som bliver brugt, sådan at der ingen ambiguitet
 **Dashboard** henviser til dit admin panel, som du får adgang til som Wordpress bruger. Herinde kan du styre både de enkelte sider samt din forside.
 
 **Template Editor** er værktøjet du bruger til at ændrer i forsiden og tilføje links til andre sider.
+
+**Pages** er de enkelte sider som en Wordpress side består af. Tænk dem som enkelstående forsider du kan placere hvor som helst.
