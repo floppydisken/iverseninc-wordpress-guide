@@ -9,4 +9,4 @@ For at fjerne enkelte elementer, kan du trykke på den og trykke på `Delete` kn
 
 ![Remove block]({{site.baseurl}}/assets/remove-block.png)
 
-Du skulle derefter gerne se en simpel 
+Du burde nu have fjernet det enkelte element!
