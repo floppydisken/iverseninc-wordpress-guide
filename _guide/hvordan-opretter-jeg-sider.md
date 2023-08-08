@@ -41,5 +41,3 @@ Hvis du i sammen menu finder `Patterns` undermenuen, vil du finde en række præ
 ![Page edit patterns]({{site.baseurl}}/assets/page-patterns.png)
 
 For at bruge et pattern skal du enten dobbelt-trykke på den du ønsker eller trække det hen på siden. Hvad der virker bedst for dig, er op til dig.
-
-
