@@ -30,8 +30,7 @@ github_username: floppydisken
 
 # Build settings
 theme: minima
-# plugins:
-#   - jekyll-feed
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
