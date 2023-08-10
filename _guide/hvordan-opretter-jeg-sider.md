@@ -42,4 +42,4 @@ Hvis du i sammen menu finder `Patterns` undermenuen, vil du finde en række præ
 
 For at bruge et pattern skal du enten dobbelt-trykke på den du ønsker eller trække det hen på siden. Hvad der virker bedst for dig, er op til dig.
 
-Du kan læse [artiklen her for at se hvordan du tilføjer din side til forsiden]({{site.baseurl}}/hvordan-aendrer-jeg-forsiden)
+Du kan læse [artiklen her for at se hvordan du tilføjer din side til forsiden]({{site.baseurl}}/hvordan-aendrer-jeg-i-forsiden)
