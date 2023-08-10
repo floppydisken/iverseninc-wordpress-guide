@@ -18,7 +18,7 @@ Du vil så blive sendt hen til din hjemmeside. Du trykker derefter på `Edit sit
 
 ![Edit site]({{site.baseurl}}/assets/edit-site.png)
 
-Når du har gjort det vil du blive ledt hen til `Template Editoren`. Det er er her hvor du kan påvirke hvordan dit forside ser ud.
+Når du har gjort det vil du blive ledt hen til `Template Editoren`. Det er er her hvor du kan påvirke hvordan din forside ser ud.
 
 Du skal nu trykke på den kasse hvor din hjemmeside er, som markeret med den røde cirkel i det følgende billede
 
@@ -38,7 +38,7 @@ Derefter find det lille `+` i slutningen af dimsen, hvis ikke den popper frem, s
 
 ![Add menu link]({{site.baseurl}}/assets/edit-top-menu.png)
 
-Derefter kan du frit søge efter den side som du har oprettet, [vha. guiden her]({{site.baseurl/hvordan-opretter-jeg-sider}}). Når den rette side popper frem, trykker du bare på den.
+Derefter kan du frit søge efter den side som du har oprettet, [vha. guiden her]({{site.baseurl/hvordan-opretter-jeg-sider}}). Når den rette side popper frem, trykker du på den.
 
 ![Find page to insert]({{site.baseurl}}/assets/find-page-to-insert.png)
 
